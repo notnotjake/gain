@@ -1,0 +1,13 @@
+{
+  "name": "gain",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": {
+    "gain": "src/index.ts"
+  },
+  "dependencies": {
+    "@clack/prompts": "^0.7.0",
+    "kleur": "^4.1.5",
+    "ms": "^2.1.3"
+  }
+}
